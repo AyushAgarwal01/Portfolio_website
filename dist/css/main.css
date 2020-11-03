@@ -153,6 +153,7 @@ input[class^="btn-"]:hover {
     width: 100;
     top: 50%;
     left: 25%;
+    right: 25%;
     transform: translateY(-50%); }
   .item-text-title {
     font-size: 2rem;
